@@ -1,10 +1,9 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<img src="assets/multi-site-vpn-logo.svg" alt="Multi-Site VPN Logo" />
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# Multi-Site VPN and VoIP Integration for Real Estate Management Company
+This project addressed communication challenges faced by a real estate management company with one main office and five satellite offices. Previously, satellite offices relied on traditional phone lines for interoffice communication, leading to high monthly costs. To overcome this, a new multi-site VPN tunnel was established to allow voice traffic alongside existing data traffic. Additionally, IP phones were deployed at satellite locations, leveraging existing infrastructure and significantly reducing operating costs.
 
 ## Environments and Technologies Used
 
