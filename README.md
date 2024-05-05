@@ -3,25 +3,25 @@
 </p>
 
 # Multi-site VPN and VoIP Integration to Reduce Interoffice Communication Costs
-This project addressed communication challenges faced by a real estate management company with one main office and five satellite offices. Previously, satellite offices relied on traditional phone lines for interoffice communication, leading to high monthly costs. To overcome this, a new multi-site VPN tunnel was established to allow voice traffic alongside existing data traffic. Additionally, IP phones were deployed at satellite locations, leveraging existing infrastructure and significantly reducing operating costs.
+This project addressed communication challenges faced by a real estate management company with one main office and six satellite offices. Previously, satellite offices relied on traditional phone lines for interoffice communication, leading to high monthly costs. To overcome this, a new multi-site VPN tunnel was established to allow voice traffic alongside existing data traffic. Additionally, IP phones were deployed at satellite locations, leveraging existing infrastructure and significantly reducing operating costs.
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
+- Sonic Wall TZ 170
 
 ## Operating Systems Used
+- Windows 8.1 Professional
 
 - Operating System Name
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
+- Create address objects for each satellite office's LAN network, voice network, and WAN IP address in the main office firewall
+- Create address objects for the main office's LAN network, voice network, and WAN IP address in each satellite office's firewall
+- Create the VPN policy in the main and all satellite office firewalls
+- Create static routes in the main and all satellite office firewalls
+- Enable the the VPN and test communication on the voice and data networks
+- Deploy and configure IP phones at satellite offices replacing traditional phone lines
 
 <h2>Architecture Diagram</h2>
 
