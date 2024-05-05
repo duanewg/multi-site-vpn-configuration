@@ -2,7 +2,7 @@
 <img src="assets/multi-site-vpn-logo.svg" width="400px" alt="Multi-Site VPN Logo" />
 </p>
 
-# Multi-Site VPN and VoIP Integration for Real Estate Management Company
+# Multi-site VPN and VoIP Integration to Reduce Interoffice Communication Costs
 This project addressed communication challenges faced by a real estate management company with one main office and five satellite offices. Previously, satellite offices relied on traditional phone lines for interoffice communication, leading to high monthly costs. To overcome this, a new multi-site VPN tunnel was established to allow voice traffic alongside existing data traffic. Additionally, IP phones were deployed at satellite locations, leveraging existing infrastructure and significantly reducing operating costs.
 
 ## Environments and Technologies Used
