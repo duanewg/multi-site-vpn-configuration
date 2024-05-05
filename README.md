@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/multi-site-vpn-logo.svg" width="80%" alt="Multi-Site VPN Logo" />
+<img src="assets/multi-site-vpn-logo.svg" width="400px" alt="Multi-Site VPN Logo" />
 </p>
 
 # Multi-Site VPN and VoIP Integration for Real Estate Management Company
