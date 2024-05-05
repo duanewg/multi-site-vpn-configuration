@@ -16,8 +16,8 @@ This project addressed communication challenges faced by a real estate managemen
 
 ## High-Level Deployment and Configuration Steps
 
-- Create address objects for each satellite office's LAN network, voice network, and WAN IP address in the main office firewall
-- Create address objects for the main office's LAN network, voice network, and WAN IP address in each satellite office's firewall
+- Create address objects for each satellite office's data network, voice network, and WAN IP address in the main office firewall
+- Create address objects for the main office's data network, voice network, and WAN IP address in each satellite office's firewalls
 - Create the VPN policy in the main and all satellite office firewalls
 - Create static routes in the main and all satellite office firewalls
 - Enable the the VPN and test communication on the voice and data networks
