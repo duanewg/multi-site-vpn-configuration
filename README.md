@@ -12,8 +12,6 @@ This project addressed communication challenges faced by a real estate managemen
 ## Operating Systems Used
 - Windows 8.1 Professional
 
-- Operating System Name
-
 ## High-Level Deployment and Configuration Steps
 
 - Create address objects for each satellite office's data network, voice network, and WAN IP address in the main office firewall
